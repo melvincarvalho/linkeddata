@@ -9,6 +9,10 @@
             "@_MODIFIED": 1578578267956,
             "@_LINK": "../tech/index.mm",
             "@_STYLE": "oval",
+            "font": {
+                "@_SIZE": 18,
+                "@_BOLD": false
+            },
             "edge": {
                 "@_STYLE": "bezier",
                 "@_COLOR": "#00ff00",
@@ -190,13 +194,19 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 16,
+                    "@_COUNTER": 17,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
-            "font": {
-                "@_SIZE": 18,
-                "@_BOLD": false
+            "node": {
+                "@_TEXT": "RDF",
+                "@_POSITION": "right",
+                "@_ID": "ID_208927329",
+                "@_CREATED": 1578581419822,
+                "@_MODIFIED": 1578581426746,
+                "edge": {
+                    "@_COLOR": "#7c0000"
+                }
             }
         }
     }

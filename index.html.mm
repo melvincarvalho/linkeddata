@@ -1,6 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="linked data" FOLDED="false" ID="ID_1072140258" CREATED="1578577862996" MODIFIED="1578578267956" LINK="../tech/index.mm" STYLE="oval">
+<font SIZE="18" BOLD="false"/>
 <edge STYLE="bezier" COLOR="#00ff00" WIDTH="thin" DASH="SOLID"/>
 <hook NAME="MapStyle">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>
@@ -63,7 +64,9 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="16" RULE="ON_BRANCH_CREATION"/>
-<font SIZE="18" BOLD="false"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="17" RULE="ON_BRANCH_CREATION"/>
+<node TEXT="RDF" POSITION="right" ID="ID_208927329" CREATED="1578581419822" MODIFIED="1578581426746">
+<edge COLOR="#7c0000"/>
+</node>
 </node>
 </map>
