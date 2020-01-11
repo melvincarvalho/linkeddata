@@ -194,20 +194,67 @@
                 },
                 {
                     "@_NAME": "AutomaticEdgeColor",
-                    "@_COUNTER": 17,
+                    "@_COUNTER": 18,
                     "@_RULE": "ON_BRANCH_CREATION"
                 }
             ],
-            "node": {
-                "@_TEXT": "RDF",
-                "@_POSITION": "right",
-                "@_ID": "ID_208927329",
-                "@_CREATED": 1578581419822,
-                "@_MODIFIED": 1578581426746,
-                "edge": {
-                    "@_COLOR": "#7c0000"
+            "node": [
+                {
+                    "@_TEXT": "RDF",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_208927329",
+                    "@_CREATED": 1578581419822,
+                    "@_MODIFIED": 1578581426746,
+                    "edge": {
+                        "@_COLOR": "#7c0000"
+                    }
+                },
+                {
+                    "@_TEXT": "HR14",
+                    "@_POSITION": "right",
+                    "@_ID": "ID_1285768523",
+                    "@_CREATED": 1578582208075,
+                    "@_MODIFIED": 1578582211001,
+                    "edge": {
+                        "@_COLOR": "#00007c"
+                    },
+                    "node": [
+                        {
+                            "@_TEXT": "https://www.w3.org/2001/tag/2011/09/referential-use.html",
+                            "@_ID": "ID_665050731",
+                            "@_CREATED": 1578582220735,
+                            "@_MODIFIED": 1578582220735,
+                            "@_LINK": "https://www.w3.org/2001/tag/2011/09/referential-use.html"
+                        },
+                        {
+                            "@_TEXT": "list",
+                            "@_ID": "ID_42332315",
+                            "@_CREATED": 1578583318772,
+                            "@_MODIFIED": 1578583319748,
+                            "node": {
+                                "@_ID": "ID_1160317698",
+                                "@_CREATED": 1578583320799,
+                                "@_MODIFIED": 1578583320799,
+                                "@_LINK": "https://lists.w3.org/Archives/Public/www-tag/2012Mar/0010.html",
+                                "richcontent": {
+                                    "@_TYPE": "NODE",
+                                    "html": {
+                                        "head": "",
+                                        "body": {
+                                            "a": {
+                                                "#text": "https://lists.w3.org/Archives/Public/www-tag/2012Mar/0010.html",
+                                                "@_http-equiv": "content-type",
+                                                "@_content": "text/html; charset=utf-8",
+                                                "@_href": "https://lists.w3.org/Archives/Public/www-tag/2012Mar/0010.html"
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    ]
                 }
-            }
+            ]
         }
     }
 }

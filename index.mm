@@ -64,9 +64,28 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="17" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="18" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="RDF" POSITION="right" ID="ID_208927329" CREATED="1578581419822" MODIFIED="1578581426746">
 <edge COLOR="#7c0000"/>
+</node>
+<node TEXT="HR14" POSITION="right" ID="ID_1285768523" CREATED="1578582208075" MODIFIED="1578582211001">
+<edge COLOR="#00007c"/>
+<node TEXT="https://www.w3.org/2001/tag/2011/09/referential-use.html" ID="ID_665050731" CREATED="1578582220735" MODIFIED="1578582220735" LINK="https://www.w3.org/2001/tag/2011/09/referential-use.html"/>
+<node TEXT="list" ID="ID_42332315" CREATED="1578583318772" MODIFIED="1578583319748">
+<node ID="ID_1160317698" CREATED="1578583320799" MODIFIED="1578583320799" LINK="https://lists.w3.org/Archives/Public/www-tag/2012Mar/0010.html"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://lists.w3.org/Archives/Public/www-tag/2012Mar/0010.html">https://lists.w3.org/Archives/Public/www-tag/2012Mar/0010.html</a> 
+  </body>
+</html>
+
+</richcontent>
+</node>
+</node>
 </node>
 </node>
 </map>

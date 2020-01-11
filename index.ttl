@@ -1,0 +1,6 @@
+<#ID_208927329> <urn:string:@_TEXT> """RDF""" .
+<#ID_1285768523> <urn:string:@_TEXT> """HR14""" .
+<#ID_665050731> <urn:string:@_TEXT> """https://www.w3.org/2001/tag/2011/09/referential-use.html""" .
+<#ID_665050731> <urn:string:child> <ID_665050731> .
+<#ID_42332315> <urn:string:@_TEXT> """list""" .
+<#ID_42332315> <urn:string:child> <ID_42332315> .
