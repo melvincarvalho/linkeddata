@@ -1,8 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
-<node TEXT="linked data" FOLDED="false" ID="ID_1072140258" CREATED="1578577862996" MODIFIED="1578578267956" LINK="../tech/index.mm" STYLE="oval">
-<font SIZE="18" BOLD="false"/>
-<edge STYLE="bezier" COLOR="#00ff00" WIDTH="thin" DASH="SOLID"/>
+<node TEXT="RDF" FOLDED="false" ID="ID_208927329" CREATED="1578581419822" MODIFIED="1579794189803" LINK="../index.mm" STYLE="oval">
+<edge STYLE="bezier" COLOR="#7c0000" WIDTH="thin" DASH="SOLID"/>
 <hook NAME="MapStyle">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>
 
@@ -65,55 +64,9 @@
 </map_styles>
 </hook>
 <hook NAME="AutomaticEdgeColor" COUNTER="20" RULE="ON_BRANCH_CREATION"/>
-<node TEXT="RDF" POSITION="right" ID="ID_178329513" CREATED="1579794102528" MODIFIED="1579794102545" LINK="RDF/index.mm">
+<font SIZE="18"/>
+<node TEXT="turtle" POSITION="right" ID="ID_1132963320" CREATED="1579794223224" MODIFIED="1579794223300" LINK="turtle/index.mm">
 <edge STYLE="bezier" COLOR="#7c0000" WIDTH="thin"/>
-</node>
-<node TEXT="HR14" POSITION="right" ID="ID_1285768523" CREATED="1578582208075" MODIFIED="1578582211001">
-<edge COLOR="#00007c"/>
-<node TEXT="https://www.w3.org/2001/tag/2011/09/referential-use.html" ID="ID_665050731" CREATED="1578582220735" MODIFIED="1578582220735" LINK="https://www.w3.org/2001/tag/2011/09/referential-use.html"/>
-<node TEXT="list" ID="ID_42332315" CREATED="1578583318772" MODIFIED="1578583319748">
-<node ID="ID_1160317698" CREATED="1578583320799" MODIFIED="1578583320799" LINK="https://lists.w3.org/Archives/Public/www-tag/2012Mar/0010.html"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://lists.w3.org/Archives/Public/www-tag/2012Mar/0010.html">https://lists.w3.org/Archives/Public/www-tag/2012Mar/0010.html</a> 
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
-<node TEXT="tools" POSITION="right" ID="ID_352034292" CREATED="1578926965286" MODIFIED="1578926966611">
-<edge COLOR="#007c00"/>
-<node TEXT="explorer" ID="ID_1307008172" CREATED="1578926983972" MODIFIED="1578926985856">
-<node ID="ID_1826732205" CREATED="1578741683531" MODIFIED="1578741683531" LINK="https://rdf-play.rubensworks.net/#url=https%3A%2F%2Fmelvincarvalho.com%2F&amp;proxy=https%3A%2F%2Fproxy.linkeddatafragments.org%2F"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://rdf-play.rubensworks.net/#url=https%3A%2F%2Fmelvincarvalho.com%2F&amp;proxy=https%3A%2F%2Fproxy.linkeddatafragments.org%2F">https://rdf-play.rubensworks.net/#url=https%3A%2F%2Fmelvincarvalho.com%2F&amp;proxy=https%3A%2F%2Fproxy.linkeddatafragments.org%2F</a> 
-  </body>
-</html>
-</richcontent>
-</node>
-<node ID="ID_685650131" CREATED="1578927008125" MODIFIED="1578927008125" LINK="http://graphite.ecs.soton.ac.uk/browser/?uri=https%3A%2F%2Fmelvincarvalho.com%2F"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <a http-equiv="content-type" content="text/html; charset=utf-8" href="http://graphite.ecs.soton.ac.uk/browser/?uri=https%3A%2F%2Fmelvincarvalho.com%2F">http://graphite.ecs.soton.ac.uk/browser/?uri=https%3A%2F%2Fmelvincarvalho.com%2F</a> 
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
 </node>
 </node>
 </map>
