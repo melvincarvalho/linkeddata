@@ -1,4 +1,4 @@
-<map version="freeplane 1.7.0">
+<map version="freeplane 1.8.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="linked data" FOLDED="false" ID="ID_1072140258" CREATED="1578577862996" MODIFIED="1578578267956" LINK="../tech/index.mm" STYLE="oval">
 <font SIZE="18" BOLD="false"/>
@@ -68,24 +68,6 @@
 <node TEXT="RDF" POSITION="right" ID="ID_178329513" CREATED="1579794102528" MODIFIED="1579794102545" LINK="RDF/index.mm">
 <edge STYLE="bezier" COLOR="#7c0000" WIDTH="thin"/>
 </node>
-<node TEXT="HR14" POSITION="right" ID="ID_1285768523" CREATED="1578582208075" MODIFIED="1578582211001">
-<edge COLOR="#00007c"/>
-<node TEXT="https://www.w3.org/2001/tag/2011/09/referential-use.html" ID="ID_665050731" CREATED="1578582220735" MODIFIED="1578582220735" LINK="https://www.w3.org/2001/tag/2011/09/referential-use.html"/>
-<node TEXT="list" ID="ID_42332315" CREATED="1578583318772" MODIFIED="1578583319748">
-<node ID="ID_1160317698" CREATED="1578583320799" MODIFIED="1578583320799" LINK="https://lists.w3.org/Archives/Public/www-tag/2012Mar/0010.html"><richcontent TYPE="NODE">
-
-<html>
-  <head>
-    
-  </head>
-  <body>
-    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://lists.w3.org/Archives/Public/www-tag/2012Mar/0010.html">https://lists.w3.org/Archives/Public/www-tag/2012Mar/0010.html</a> 
-  </body>
-</html>
-</richcontent>
-</node>
-</node>
-</node>
 <node TEXT="tools" POSITION="right" ID="ID_352034292" CREATED="1578926965286" MODIFIED="1578926966611">
 <edge COLOR="#007c00"/>
 <node TEXT="explorer" ID="ID_1307008172" CREATED="1578926983972" MODIFIED="1578926985856">
@@ -109,6 +91,24 @@
   </head>
   <body>
     <a http-equiv="content-type" content="text/html; charset=utf-8" href="http://graphite.ecs.soton.ac.uk/browser/?uri=https%3A%2F%2Fmelvincarvalho.com%2F">http://graphite.ecs.soton.ac.uk/browser/?uri=https%3A%2F%2Fmelvincarvalho.com%2F</a> 
+  </body>
+</html>
+</richcontent>
+</node>
+</node>
+</node>
+<node TEXT="HR14" POSITION="left" ID="ID_1285768523" CREATED="1578582208075" MODIFIED="1578582211001">
+<edge COLOR="#00007c"/>
+<node TEXT="https://www.w3.org/2001/tag/2011/09/referential-use.html" ID="ID_665050731" CREATED="1578582220735" MODIFIED="1578582220735" LINK="https://www.w3.org/2001/tag/2011/09/referential-use.html"/>
+<node TEXT="list" ID="ID_42332315" CREATED="1578583318772" MODIFIED="1578583319748">
+<node ID="ID_1160317698" CREATED="1578583320799" MODIFIED="1578583320799" LINK="https://lists.w3.org/Archives/Public/www-tag/2012Mar/0010.html"><richcontent TYPE="NODE">
+
+<html>
+  <head>
+    
+  </head>
+  <body>
+    <a http-equiv="content-type" content="text/html; charset=utf-8" href="https://lists.w3.org/Archives/Public/www-tag/2012Mar/0010.html">https://lists.w3.org/Archives/Public/www-tag/2012Mar/0010.html</a> 
   </body>
 </html>
 </richcontent>

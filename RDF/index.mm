@@ -1,6 +1,7 @@
-<map version="freeplane 1.7.0">
+<map version="freeplane 1.8.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="RDF" FOLDED="false" ID="ID_208927329" CREATED="1578581419822" MODIFIED="1579794189803" LINK="../index.mm" STYLE="oval">
+<font SIZE="18"/>
 <edge STYLE="bezier" COLOR="#7c0000" WIDTH="thin" DASH="SOLID"/>
 <hook NAME="MapStyle">
     <properties edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" fit_to_viewport="false"/>
@@ -63,10 +64,22 @@
 </stylenode>
 </map_styles>
 </hook>
-<hook NAME="AutomaticEdgeColor" COUNTER="20" RULE="ON_BRANCH_CREATION"/>
-<font SIZE="18"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="21" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="turtle" POSITION="right" ID="ID_1132963320" CREATED="1579794223224" MODIFIED="1579794223300" LINK="turtle/index.mm">
 <edge STYLE="bezier" COLOR="#7c0000" WIDTH="thin"/>
+</node>
+<node TEXT="JSON-LD" POSITION="right" ID="ID_284488250" CREATED="1586715837640" MODIFIED="1586715840743">
+<edge COLOR="#007c7c"/>
+<node TEXT="intro" ID="ID_199223708" CREATED="1586715844816" MODIFIED="1586715847988" LINK="https://json-ld.org/"/>
+<node TEXT="playground" ID="ID_1962095646" CREATED="1586715861421" MODIFIED="1586715867918" LINK="https://json-ld.org/playground/"/>
+<node TEXT="libraries" ID="ID_1607652220" CREATED="1586715877823" MODIFIED="1586715880092">
+<node TEXT="js" ID="ID_1093915155" CREATED="1586715881573" MODIFIED="1586715882469">
+<node TEXT="jsonld.js" ID="ID_168182801" CREATED="1586715889686" MODIFIED="1586715896088" LINK="https://github.com/digitalbazaar/jsonld.js"/>
+<node TEXT="jsonld streaming parser" ID="ID_1943129189" CREATED="1586715905843" MODIFIED="1586715915964" LINK="https://github.com/rubensworks/jsonld-streaming-parser.js"/>
+<node TEXT="jsonld streaming serializer" ID="ID_1591949816" CREATED="1586715923716" MODIFIED="1586715941399" LINK="https://github.com/rubensworks/jsonld-streaming-serializer.js"/>
+<node TEXT="rdf parse" ID="ID_651009342" CREATED="1586715979636" MODIFIED="1586715983553" LINK="https://github.com/rubensworks/rdf-parse.js"/>
+</node>
+</node>
 </node>
 </node>
 </map>
